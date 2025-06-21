@@ -1,0 +1,86 @@
+ body {
+    color: aliceblue;
+    background-color: black ;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    display:flex;
+    justify-content:center ;
+      align-items: center;
+      height: 200vh;
+}
+
+
+    
+
+.inicio-sesion {
+  background-color:aliceblue;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgb(251, 5, 5);
+  width: 100%;
+ max-width: 550px;}
+
+.retcolor{
+    color: black;
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+form {
+display: flex;
+flex-direction: column;
+}
+
+
+label{
+    margin-bottom: 5px;
+ font-weight: bold;
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 0lvb;
+    border-radius: 10px;
+
+}
+
+button{
+    padding: 5px;
+    background-color:white;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+button:hover {
+  background-color: #45a049;
+}
+
+
+input:hover{
+    background-color: rgb(20, 187, 220);
+}
+
+
+
+
+p{
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+
+
+.minimizar { font-size: -5px;
+
+}
