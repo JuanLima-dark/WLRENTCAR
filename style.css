@@ -73,3 +73,16 @@ button:hover {
 input:hover{
     background-color: rgb(20, 187, 220);
 }
+
+p{
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+
+
+.minimizar { font-size: 160%;
+
+}
+
