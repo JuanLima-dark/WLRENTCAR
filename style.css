@@ -1,5 +1,10 @@
  body {
-    color: aliceblue;
+ body {
+     background-image: url(56d5e948c1c42464339e1c04188c51d3--angel-eyes-bmw-e.jpg);
+  background-size: cover;         /* La imagen se ajusta al tamaño de la pantalla */
+  background-repeat: no-repeat;   /* No se repite la imagen */
+  background-position: center;    /* Se centra la imagen */
+    color: rgb(6, 231, 243);
     background-color: black ;
     font-family: Georgia, Times, 'Times New Roman', serif;
     display:flex;
@@ -12,15 +17,15 @@
     
 
 .inicio-sesion {
-  background-color:rgb(255, 6, 68);;
+  background-color:rgb(2, 64, 248);
   padding: 30px;
   border-radius: 12px;
-  box-shadow: 0 0 15px rgb(251, 5, 5);
+  box-shadow: 0 0 15px rgb(2, 251, 255);
   width: 100%;
  max-width: 550px;}
 
 .retcolor{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -81,6 +86,6 @@ p{
 
 
 
-.minimizar { font-size: -5px;
+.minimizar { font-size: 160%;
 
 }
